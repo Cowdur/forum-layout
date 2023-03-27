@@ -1,0 +1,61 @@
+div.top {
+    border: 1px solid black;
+    width: 99%;
+    height: 80px;
+}
+
+div.search {
+    border: 1px solid black;
+    width: 99%;
+    height: 80px;
+}
+
+div.side {
+    border: 1px solid black;
+    width: 25%;
+    height: 1500px;
+    float: left;
+}
+
+div.body {
+    border: 1px solid black;
+    width: 74%;
+    height: 1500px;
+    float: left;
+}
+
+div.sort {
+    border: 1px solid black;
+    margin: 20px 50px;
+    width: 800px;
+    height: 50px;
+}
+
+button {
+    border: 1px solid black;
+    margin: 10px;
+    background-color: rgb(252, 252, 252);
+}
+
+button.match {
+    float: left;
+}
+
+button.date {
+    float: right;
+}
+
+div#first {
+    border: 1px solid black;
+    margin: 50px;
+    height: 200px;
+    width: 800px;
+    
+}
+
+div#second {
+    border: 1px solid black;
+    margin:50px;
+    height: 200px;
+    width: 800px;
+}
